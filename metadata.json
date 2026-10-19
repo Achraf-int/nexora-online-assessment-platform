@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Online Assessment Platform",
+  "description": "Assess knowledge. Unlock potential. A full-stack online examination system with timed tests, dynamic product catalog API integration, student dashboards, and administrator test management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Java and Maven
+target/
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local configuration and secrets
+application-local.yml
+application-local.properties
+*.pem
+*.key
